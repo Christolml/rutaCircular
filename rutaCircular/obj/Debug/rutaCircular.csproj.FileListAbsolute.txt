@@ -1,0 +1,9 @@
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\rutaCircular\rutaCircular\rutaCircular\bin\Debug\rutaCircular.exe.config
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\rutaCircular\rutaCircular\rutaCircular\bin\Debug\rutaCircular.exe
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\rutaCircular\rutaCircular\rutaCircular\bin\Debug\rutaCircular.pdb
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\rutaCircular\rutaCircular\rutaCircular\obj\Debug\rutaCircular.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\rutaCircular\rutaCircular\rutaCircular\obj\Debug\rutaCircular.Form1.resources
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\rutaCircular\rutaCircular\rutaCircular\obj\Debug\rutaCircular.Properties.Resources.resources
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\rutaCircular\rutaCircular\rutaCircular\obj\Debug\rutaCircular.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\rutaCircular\rutaCircular\rutaCircular\obj\Debug\rutaCircular.exe
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\rutaCircular\rutaCircular\rutaCircular\obj\Debug\rutaCircular.pdb
